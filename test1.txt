@@ -2,4 +2,6 @@
 
 int main(){
     std::cout << "hello world" << endl;
+    Std::cout << "111111" << endl;
+    std::cout << "222222" << endl;
 }
